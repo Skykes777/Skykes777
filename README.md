@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/Skykes777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skykes777&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180px" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skykes777&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skykes777&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
  </div>
@@ -17,5 +17,6 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/333quasebesta)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mendieta-670319236)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/alejandro.mendieta777@gmail.com)
 
  
