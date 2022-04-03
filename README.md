@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1 aling="center">Olá, seja bem vindo, eu sou Alejandro Mendieta! 🖖🏻🧐</h1>
   <a href="https://github.com/Skykes777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skykes777&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
