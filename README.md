@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 aling="center">Olá, seja bem vindo, eu sou Alejandro Mendieta! 🖖🏻🧐</h1>
+  <h1 aling="center">Olá! Seja bem vindo. Eu sou Alejandro Mendieta 🖖🏻🧐</h1>
   <a href="https://github.com/Skykes777">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Skykes777&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skykes777&layout=compact&langs_count=7&theme=cobalt"/>
