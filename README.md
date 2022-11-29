@@ -1,5 +1,9 @@
+<hr>
+<h2 align="center">
+Olá! Seja bem vindo. Eu sou Alejandro Mendieta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">🧐
+<hr>
+
 <div align="center">
-  <h1 aling="center">Olá! Seja bem vindo. Eu sou Alejandro Mendieta 🖖🏻🧐</h1>
     <a href="https://github.com/Skykes777">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Skykes777&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt&hide_border=false&show_owner=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skykes777&count_private=true&theme=cobalt&hide_border=false&&layout=compact"/>
