@@ -23,7 +23,6 @@ Olá! Seja bem vindo. Eu sou Alejandro Mendieta <img src="https://media.giphy.co
     <img align="center" alt="ale-py" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="ale-git" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="ale-linux" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="ale-SQlite" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
     <img align="center" alt="ale-C" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="ale-React" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div><br>
