@@ -32,9 +32,3 @@ Olá! Seja bem vindo. Eu sou Alejandro Mendieta <img src="https://media.giphy.co
   <a href = "mailto:alejandro.mendieta777gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/alejandro.mendieta777@gmail.com" target="_blank"></a>
   <a href = "963930039777370162"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  </div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/Skykes777/Skykes777/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
